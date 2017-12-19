@@ -8,7 +8,5 @@ import sun.applet.Main;
 public class Java {
     public static void main(String []args){
         System.out.print("hello");
-        System.out.print("hello");
-        System.out.print("hello");
     }
 }
